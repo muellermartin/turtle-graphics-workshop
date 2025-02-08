@@ -1,0 +1,91 @@
+.variable {
+	background-color: #666;
+	border-radius: 5px;
+	color: #eee;
+	font-family: monospace !important;
+	font-size: 0.7em !important;
+	padding: 0.2em !important;
+}
+
+td.black,
+td.blue,
+td.green,
+td.forestgreen {
+	color: white;
+	border: none !important;
+}
+
+td.gray,
+td.white,
+td.red,
+td.tomato,
+td.salmon,
+td.cornflowerblue,
+td.deepskyblue,
+td.limegreen,
+td.yellow,
+td.gold,
+td.orange {
+	color: black;
+	border: none !important;
+}
+
+.black {
+	background-color: black;
+}
+
+.gray {
+	background-color: gray;
+}
+
+.white {
+	background-color: white;
+}
+
+.red {
+	background-color: red;
+}
+
+.tomato {
+	background-color: tomato;
+}
+
+.salmon {
+	background-color: salmon;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.cornflowerblue {
+	background-color: cornflowerblue;
+}
+
+.deepskyblue {
+	background-color: deepskyblue;
+}
+
+.green {
+	background-color: green;
+}
+
+.forestgreen {
+	background-color: forestgreen;
+}
+
+.limegreen {
+	background-color: limegreen;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.gold {
+	background-color: gold;
+}
+
+.orange {
+	background-color: orange;
+}

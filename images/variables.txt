@@ -1,0 +1,4 @@
+          hallo =  9
+Name  ---^      ^   ^--- Wert
+                |
+        Zuweisungsoperator
