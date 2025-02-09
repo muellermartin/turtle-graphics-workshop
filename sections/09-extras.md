@@ -45,8 +45,7 @@ Materialien und komplexere Zeichnungen
 
 ## Workshop-Materialien
 
-Verfügbar unter https://c0b.de/tsnuk-2019/.
-![](images/09-extras/link.svg) <!-- .element class="plain" height="50%" width="50%" -->
+Verfügbar unter https://c0b.de/turtle/.
 
 ---
 
